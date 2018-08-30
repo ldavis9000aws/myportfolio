@@ -1,3 +1,8 @@
 #Portfolio for Lawrence Davis
 
-This is my professional portfolio which uses AWS and ReactJS. 
+This is one of my professional portfolios which uses AWS and ReactJS.
+
+## Technologies Used
+
+Git and github
+SSH
