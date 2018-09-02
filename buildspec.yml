@@ -1,0 +1,14 @@
+version: 0.1
+
+phases: 
+  build:
+    commands:
+      - echo nothing to do yet
+artifcats: 
+  files: 
+    - index.html
+    - favicon.ico
+    - Lawrence_Davis_Resume_09012018.pdf
+    - styles/main.css
+    - images/*
+    
